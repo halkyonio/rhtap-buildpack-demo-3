@@ -15,7 +15,7 @@ metadata:
     appstudio.openshift.io/application: rhtap-buildpack-demo-3
     appstudio.openshift.io/component: rhtap-buildpack-demo-3
     pipelines.appstudio.openshift.io/type: build
-    rhtap.snowdrop.dev/build: test-0
+    rhtap.snowdrop.dev/build: test-1
   name: rhtap-buildpack-demo-3
   namespace: cmoullia-tenant
 spec:
